@@ -1,6 +1,6 @@
 <img width="1375" height="619" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/02343f3a-c9ff-47d3-8022-c2329d9e29dd" />
 
-#Rebels Better Int
+Rebels Better Int
 
 A premium, highly interactive utility node for ComfyUI that provides a completely customizable, scalable integer display. Designed to look stunning on stream, in video tutorials, and across complex production workflows, Rebels Better Int replaces boring standard slider boxes with a high-fidelity digital readout that dynamically resizes with your node size.
 
